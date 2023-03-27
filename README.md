@@ -7,7 +7,7 @@ Financial controller and Frontend Deverloper
 A person mixed with finance and coding.
 
 * 🌍  I'm based in Taipei
-* 🖥️  See my portfolio at [My portfolio](http://zoran-yang.github.io/MyWeb/)
+* 🖥️  See my portfolio at [My portfolio](https://simple-resume.herokuapp.com/)
 * ✉️  You can contact me at [greedy0101@gmail.com](mailto:greedy0101@gmail.com)
 
 ### Skills
